@@ -30,6 +30,8 @@
     "assets/imagery/logos/logo-tough-mudder-clean.webp",
     "assets/imagery/logos/logo-tunnel-to-towers-clean.webp",
     "assets/portfolio-revision/hero-atmosphere.js",
+    "assets/portfolio-revision/hero-switchboard-route.css",
+    "assets/portfolio-revision/hero-switchboard.js",
     "assets/portfolio-revision/project-02.webp",
     "assets/portfolio-revision/project-03.webp",
     "assets/portfolio-revision/project-04.webp",
@@ -60,7 +62,7 @@
   ],
   "sha256": {
     "account-management/design-concept.css": "73052eae58d446422f0ff921361877b1ca4e0062ec7ee25daace39b4a4791195",
-    "account-management/index.html": "3fbc02b6a078af4a7103a3a913ed61f6a43a25ed0db6a6cc6c51199137eb4b8a",
+    "account-management/index.html": "1838f58ebc2272c012d753eb8b6a8c21c30a1bdba33a1f6873aa5bb451b35363",
     "account-management/project-02.html": "48b6e9e6cf54403a1a75fa69ffdece7baf676bd21e11019f9a61522433ea9017",
     "account-management/project-03.html": "99299d0fa92a7ff2e1fc6a523b8f74f922ad2f7c3666d30db14b50e325dd9dc1",
     "account-management/project-04.html": "67fa89391aaa07c34e9a9e70b336f8503a3570528722fe4f6ebc2c454066c45e",
@@ -80,6 +82,8 @@
     "assets/imagery/logos/logo-tough-mudder-clean.webp": "f292af5114ce96b04fe0839d506ddd88848967cfd2c9a4a866c21431d4f885b8",
     "assets/imagery/logos/logo-tunnel-to-towers-clean.webp": "c7e50780fa268489cbb352db6d522f69540bc828665d4f5bcffc36a012950ab7",
     "assets/portfolio-revision/hero-atmosphere.js": "b6a7f5250cfee0ea056c73ef8e2b85a75961bee35143003ff2f726c49f894cd9",
+    "assets/portfolio-revision/hero-switchboard-route.css": "27acd78341b4bb3b455b930e1db182cf07d7850de6c9f58d031e6c59ef99f298",
+    "assets/portfolio-revision/hero-switchboard.js": "e085cb5417574e53a074deb2fc619e282e8394efac5fcfc138c0ba45b7155ae8",
     "assets/portfolio-revision/project-02.webp": "8fe126fa0ad6427ab0d438ccb4688752fb3db2a489b674615193c7f28672b9af",
     "assets/portfolio-revision/project-03.webp": "5c731a315a83f927659600af1375ed14622dbda16b894a1c905aae010ac50266",
     "assets/portfolio-revision/project-04.webp": "7821f1eb228da5e31b71876b26592221d2fd2db8515f4a026e107bf9aea202b4",
@@ -104,8 +108,8 @@
     "favicon.ico": "2949f3be607e8abc5e0135e984cd21bdcfb1044c7cb5fce50113191ee6e17ba2",
     "icon-192.png": "cf02aebea2bbc59f6556d373131074209851f018b6335279d5dfdeb2fe45fb0c",
     "icon-512.png": "732dd99a37905681d037fdd6a3f12bacaa67ca9ddc0cb92c6251a6e892f722d4",
-    "output/pdf/Wally-Mostafa-Account-Management-Resume.pdf": "2e5a39d778e99bf58eb7260d029aade6e0c59129b93e7cccc7c3766de8b3cc4c",
-    "scripts/packages/account-management.json": "fef8a70a170775cb5a739753c67d306ccc1a3bd748d14639e3e5b92dd3460edb",
+    "output/pdf/Wally-Mostafa-Account-Management-Resume.pdf": "0082587f29f50da5f4b1637096820d853fb1973f9866af44ac56652d87e59e30",
+    "scripts/packages/account-management.json": "5870fc27f7354d82f92dffc346e6ffb33fc37df402efd51aaeff01ab6543a57f",
     "scripts/resume-base-profiles.json": "195e963f009e9bfe386d24efec5ee697ea866b936cd6634203a6b653ab403bae",
     "site.webmanifest": "e2dc4258cdb209f823609c09ee25a2cbd499f4693ef2945852c551e2f660c7ea"
   }
