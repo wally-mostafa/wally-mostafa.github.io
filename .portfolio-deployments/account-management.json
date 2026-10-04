@@ -62,7 +62,7 @@
   ],
   "sha256": {
     "account-management/design-concept.css": "73052eae58d446422f0ff921361877b1ca4e0062ec7ee25daace39b4a4791195",
-    "account-management/index.html": "178082506aa6573c9444587e06025f09bd7eca7df3dee3474553a4bb1b3a8900",
+    "account-management/index.html": "d46b3260eff9192e1c36ad8a52badd7c1f826ad3da3e77f6ba120151ae796b96",
     "account-management/project-02.html": "48b6e9e6cf54403a1a75fa69ffdece7baf676bd21e11019f9a61522433ea9017",
     "account-management/project-03.html": "99299d0fa92a7ff2e1fc6a523b8f74f922ad2f7c3666d30db14b50e325dd9dc1",
     "account-management/project-04.html": "67fa89391aaa07c34e9a9e70b336f8503a3570528722fe4f6ebc2c454066c45e",
@@ -82,7 +82,7 @@
     "assets/imagery/logos/logo-tough-mudder-clean.webp": "f292af5114ce96b04fe0839d506ddd88848967cfd2c9a4a866c21431d4f885b8",
     "assets/imagery/logos/logo-tunnel-to-towers-clean.webp": "c7e50780fa268489cbb352db6d522f69540bc828665d4f5bcffc36a012950ab7",
     "assets/portfolio-revision/hero-atmosphere.js": "b6a7f5250cfee0ea056c73ef8e2b85a75961bee35143003ff2f726c49f894cd9",
-    "assets/portfolio-revision/hero-switchboard-route.css": "27acd78341b4bb3b455b930e1db182cf07d7850de6c9f58d031e6c59ef99f298",
+    "assets/portfolio-revision/hero-switchboard-route.css": "4ff6d4c6675db04304f2cc445e810ab7304ea21e034b136f217dda6f86a07100",
     "assets/portfolio-revision/hero-switchboard.js": "e085cb5417574e53a074deb2fc619e282e8394efac5fcfc138c0ba45b7155ae8",
     "assets/portfolio-revision/project-02.webp": "8fe126fa0ad6427ab0d438ccb4688752fb3db2a489b674615193c7f28672b9af",
     "assets/portfolio-revision/project-03.webp": "5c731a315a83f927659600af1375ed14622dbda16b894a1c905aae010ac50266",
@@ -108,8 +108,8 @@
     "favicon.ico": "2949f3be607e8abc5e0135e984cd21bdcfb1044c7cb5fce50113191ee6e17ba2",
     "icon-192.png": "cf02aebea2bbc59f6556d373131074209851f018b6335279d5dfdeb2fe45fb0c",
     "icon-512.png": "732dd99a37905681d037fdd6a3f12bacaa67ca9ddc0cb92c6251a6e892f722d4",
-    "output/pdf/Wally-Mostafa-Account-Management-Resume.pdf": "faac06605e64a17e4b0259b5338205784b7d0278046b5860c29bbd63a8ebb80b",
-    "scripts/packages/account-management.json": "fe552179c00462a169736aecac2122faa27d12e649960b04c5f1ae379fc1a52d",
+    "output/pdf/Wally-Mostafa-Account-Management-Resume.pdf": "aa891f6ea6288ff3e171b7439a2a83c1e8e729114355bad1564a4d85016661c6",
+    "scripts/packages/account-management.json": "06edfaabd76fd4a19d90459a9701faffd36de78c605d47eb85556f8520dced27",
     "scripts/resume-base-profiles.json": "195e963f009e9bfe386d24efec5ee697ea866b936cd6634203a6b653ab403bae",
     "site.webmanifest": "e2dc4258cdb209f823609c09ee25a2cbd499f4693ef2945852c551e2f660c7ea"
   }
