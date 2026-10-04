@@ -62,7 +62,7 @@
   ],
   "sha256": {
     "account-management/design-concept.css": "73052eae58d446422f0ff921361877b1ca4e0062ec7ee25daace39b4a4791195",
-    "account-management/index.html": "d46b3260eff9192e1c36ad8a52badd7c1f826ad3da3e77f6ba120151ae796b96",
+    "account-management/index.html": "02f745be1746118b4bfa70aed0b908fe433caa60fb849a828fcaac70d22cca3e",
     "account-management/project-02.html": "48b6e9e6cf54403a1a75fa69ffdece7baf676bd21e11019f9a61522433ea9017",
     "account-management/project-03.html": "99299d0fa92a7ff2e1fc6a523b8f74f922ad2f7c3666d30db14b50e325dd9dc1",
     "account-management/project-04.html": "67fa89391aaa07c34e9a9e70b336f8503a3570528722fe4f6ebc2c454066c45e",
@@ -108,8 +108,8 @@
     "favicon.ico": "2949f3be607e8abc5e0135e984cd21bdcfb1044c7cb5fce50113191ee6e17ba2",
     "icon-192.png": "cf02aebea2bbc59f6556d373131074209851f018b6335279d5dfdeb2fe45fb0c",
     "icon-512.png": "732dd99a37905681d037fdd6a3f12bacaa67ca9ddc0cb92c6251a6e892f722d4",
-    "output/pdf/Wally-Mostafa-Account-Management-Resume.pdf": "aa891f6ea6288ff3e171b7439a2a83c1e8e729114355bad1564a4d85016661c6",
-    "scripts/packages/account-management.json": "06edfaabd76fd4a19d90459a9701faffd36de78c605d47eb85556f8520dced27",
+    "output/pdf/Wally-Mostafa-Account-Management-Resume.pdf": "f9118b20845ff6134871f09b120620060c3e1a1c169dc5fc1ec63bc4acc3d7c8",
+    "scripts/packages/account-management.json": "ec36e6a5e305499876ce255a4c1af4499fb7c9a2c7919575ed54b9d4cb95a897",
     "scripts/resume-base-profiles.json": "195e963f009e9bfe386d24efec5ee697ea866b936cd6634203a6b653ab403bae",
     "site.webmanifest": "e2dc4258cdb209f823609c09ee25a2cbd499f4693ef2945852c551e2f660c7ea"
   }
